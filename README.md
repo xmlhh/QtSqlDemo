@@ -1,0 +1,2 @@
+# QtSqlDemo
+Qt操作数据库：QSqlQuery、QSqlQueryModel、QSqlTableModel、QSqlRelationalTableModel
